@@ -106,4 +106,4 @@ with tab2:
         st.info("No predictions yet.")
 
 # Optional footer banner
-st.image("fraud_banner.jpg", use_container_width=True)
+st.image("fraud_banner.png", use_container_width=True)
