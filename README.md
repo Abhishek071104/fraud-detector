@@ -31,16 +31,3 @@ fraud-detection-ml-project/
 
 ---
 
-## 🧪 Sample Inputs
-
-See `sample_inputs.csv` for example transactions to test in the app.
-
----
-
-## ▶️ How to Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/fraud-detection-ml-project.git
-cd fraud-detection-ml-project
